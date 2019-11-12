@@ -1,0 +1,24 @@
+.hole-time {
+  background-color: #f2f1ed;
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+  padding: 56px;
+}
+.T {
+  left: 0;
+  right: 0;
+
+  font: normal 5.94em/107px "Lato";
+  font-weight: 700;
+  color: #de4848;
+}
+.T p {
+  font-weight: 100;
+  font-size: 30px;
+  margin: 10px;
+  color: rgb(76, 0, 255);
+}
+.img {
+  width: 10px;
+}
